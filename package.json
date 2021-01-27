@@ -1,5 +1,5 @@
 {
-    "name": "tdcomm",
+    "name": "demo",
     "scripts": {
         "dev": "webpack-dev-server --inline --progress --config webpack.config.js",
         "prod": "npm run mix-prod && npm run server-prod",
